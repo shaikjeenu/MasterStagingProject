@@ -27,15 +27,15 @@ namespace masterDataSample
 				{
 					db.InsertTinNumbers(stagingdata);
 					//db.InsertSpecalityTable(stagingdata);
-					db.InsertProviderCertificate(stagingdata);
+					//db.InsertProviderCertificate(stagingdata);
 
-					if (db.InsertProviderAddress(stagingdata) && db.insertContactPerson(stagingtable))
-					{
-						if (db.InsertContact(stagingdata))
-						{
-							db.InsertConatactPoint(stagingdata);
-						}
-					}
+					//if (db.InsertProviderAddress(stagingdata) && db.insertContactPerson(stagingtable))
+					//{
+					//	if (db.InsertContact(stagingdata))
+					//	{
+					//		db.InsertConatactPoint(stagingdata);
+					//	}
+					//}
 					//db.Insert
 				}
 			}
