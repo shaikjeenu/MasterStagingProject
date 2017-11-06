@@ -1,0 +1,7 @@
+C:\Users\Jilani\source\repos\masterDataSample\masterDataSample\bin\Debug\masterDataSample.exe.config
+C:\Users\Jilani\source\repos\masterDataSample\masterDataSample\bin\Debug\masterDataSample.exe
+C:\Users\Jilani\source\repos\masterDataSample\masterDataSample\bin\Debug\masterDataSample.pdb
+C:\Users\Jilani\source\repos\masterDataSample\masterDataSample\obj\Debug\masterDataSample.csprojResolveAssemblyReference.cache
+C:\Users\Jilani\source\repos\masterDataSample\masterDataSample\obj\Debug\masterDataSample.csproj.CoreCompileInputs.cache
+C:\Users\Jilani\source\repos\masterDataSample\masterDataSample\obj\Debug\masterDataSample.exe
+C:\Users\Jilani\source\repos\masterDataSample\masterDataSample\obj\Debug\masterDataSample.pdb
